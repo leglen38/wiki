@@ -7,7 +7,7 @@ générer puis entrer les mots de pass demandés
 
 ## Serveur mono-site  
 
-modifier avec nano en ssh  : <code> sudo nano /etc/apache2/sites-enabled/000-default.conf</code>
+modifier avec nano en ssh  : `sudo nano /etc/apache2/sites-enabled/000-default.conf`
 
 
 # Laravel 
@@ -63,7 +63,7 @@ aller dans phpmyadmin et modifier les règles :
 
 <code>iptables -L</code>
 
-créer un script , ex:  'firewall.sh' , le modifier et appliquer des regles !
+créer un script , ex:  firewall.sh , le modifier et appliquer des regles !
 
 
 **Besoins divers**
