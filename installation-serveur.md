@@ -1,4 +1,3 @@
-<br>
 # Installer les bases 
 <code>sudo apt-get install apache2 mysql-server mysql-client php-mysql phpmyadmin php-mbstring php-gd</code>
 générer puis entrer les mots de pass demandés
