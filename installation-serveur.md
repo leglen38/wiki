@@ -63,7 +63,7 @@ aller dans phpmyadmin et modifier les règles :
 
 <code>iptables -L</code>
 
-créer un script , ex: firewall.sh , le modifier et appliquer des regles !
+créer un script , ex:  'firewall.sh' , le modifier et appliquer des regles !
 
 
 **Besoins divers**
