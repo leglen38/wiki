@@ -1,3 +1,7 @@
+
+```batchfile
+dsfdsqfdsf
+```
 <!-- TITLE: Commande At -->
 <!-- SUBTITLE: Pour plannifer des taches rapidement -->
 
@@ -7,9 +11,11 @@ Quelles commandes utiles :
 
 1. Redémarrer le serveur aujourd'hui à 13h45
 
-```bash
-at 13:45
-reboot
+
+```batchfile
+at 13h45
+shutdown -r now
 ```
+Et ensuite faire un CTRL+D pour sortir de la commande
 
 
