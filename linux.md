@@ -1,4 +1,4 @@
 <!-- TITLE: Linux -->
-<!-- SUBTITLE: Tout ce qui toucher a Linux (CentOS, Debian, Ubuntu...) -->
+<!-- SUBTITLE: Tout ce qui touche a Linux (CentOS, Debian, Ubuntu...) -->
 
 # Header
