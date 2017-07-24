@@ -1,7 +1,3 @@
-
-```batchfile
-dsfdsqfdsf
-```
 <!-- TITLE: Commande At -->
 <!-- SUBTITLE: Pour plannifer des taches rapidement -->
 
