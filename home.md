@@ -2,7 +2,7 @@ Histoire d'éviter de chercher pendant des heures sur le net les astuces que l'o
 
 **Système**
 
-[Linux](https://brain.newprojects.ovh/edit/linux) 
+[Linux](https://brain.newprojects.ovh/linux) 
 [Windows](https://brain.newprojects.ovh/edit/windows) 
 [Mac](https://brain.newprojects.ovh/edit/mac) 
 
