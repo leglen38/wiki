@@ -1,15 +1,15 @@
-###Installer les bases 
+### Installer les bases 
 <code>sudo apt-get install apache2 mysql-server mysql-client php-mysql phpmyadmin php-mbstring php-gd</code>
 générer puis entrer les mots de pass demandés
  
-###Configurer Apache 
+### Configurer Apache 
 
-######Serveur mono-site  
+###### Serveur mono-site  
 
 modifier avec nano en ssh  : <code> sudo nano /etc/apache2/sites-enabled/000-default.conf</code>
 
 
-#####Laravel 
+##### Laravel 
 
 modifier les lignes pour se retrouver a cela : 
 
@@ -26,7 +26,7 @@ modifier les lignes pour se retrouver a cela :
      
     </VirtualHost>
 
-#####Serveur quelconque 
+##### Serveur quelconque 
 
     <VirtualHost *:80>
         
@@ -34,9 +34,9 @@ modifier les lignes pour se retrouver a cela :
      
     </VirtualHost>
 
-###Configurer mysql 
+### Configurer mysql 
 
-#####Plusieurs sites 1 base de données  
+##### Plusieurs sites 1 base de données  
 
 1. Modifier le fichier : <code> /etc/mysql/mariadb.conf.d/50-server.cnf </code>
  * modifier le ligne bind adress et mettre 0.0.0.0
