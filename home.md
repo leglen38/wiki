@@ -7,3 +7,7 @@ Histoire d'éviter de chercher pendant des heures sur le net les astuces que l'o
 [Mac](https://brain.newprojects.ovh/edit/mac) 
 
 **Dev**
+
+[Apache](https://brain.newprojects.ovh/installation-serveur#configurer-apache)
+[mysql](https://brain.newprojects.ovh/installation-serveur#configurer-mysql)
+[Firewall](https://brain.newprojects.ovh/installation-serveur#configuer-le-par-feu)
